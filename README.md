@@ -1,6 +1,6 @@
 # Financial Ratios Module
 
-This python module includes the functions to calculate the following functions.
+This python module includes the functions to calculate the following financial ratios.
 
 ## Liquidity Ratios
 - Current Ratio
