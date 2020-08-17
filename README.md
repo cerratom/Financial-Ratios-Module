@@ -32,4 +32,4 @@ This python module includes the functions to calculate the following financial r
 - Earning Per Share Ratio
 - Price Per Earning Ratio
 
-You can read more about this project [here]https://notaprogrammer.com/python-module-an-easy-way-to-storing-functions/.
+You can read more about this project [here](https://notaprogrammer.com/python-module-an-easy-way-to-storing-functions/).
