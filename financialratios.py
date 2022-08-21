@@ -1,4 +1,4 @@
-# This is a module of Financial Ratio
+# This is a module of Financial Ratio Updated 8-21-2022
 
 # Liquidity Ratio
 
